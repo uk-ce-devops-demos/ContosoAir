@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/puneetminhas/github-integration-test/_apis/build/status/uk-ce-devops-demos.ContosoAir?branchName=master)](https://dev.azure.com/puneetminhas/github-integration-test/_build/latest?definitionId=68&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
