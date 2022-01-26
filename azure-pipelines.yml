@@ -13,7 +13,8 @@ steps:
       command: 'custom'
       customcommand: 'install --production'
   - script: |
-      npm install jest
+      npm install 
+      npm i jest
       npm test
     displayName: 'Run unit tests'
     continueOnError: true
